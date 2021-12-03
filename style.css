@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  color: rgb(236, 173, 13);
+}
+a {
+  margin: 2px;
+}
+h2 {
+  font-size: 30px;
+  color: rgb(114, 155, 32);
+}
+h3 {
+  font-size: 25px;
+  color: rgb(36, 165, 133);
+}
+ul {
+  text-align: left;
+  display: inline-block;
+}
+ol {
+  text-align: center;
+  display: inline-block;
+}
+#a {
+  padding-left: 10px;
+}
+h4 {
+  color: rgb(238, 30, 238);
+}
